@@ -13,6 +13,5 @@ public class Program {
 
 
 
-			System.out.println("TESTE");
 	}
 }
